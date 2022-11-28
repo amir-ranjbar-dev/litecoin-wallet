@@ -97,3 +97,7 @@ node := Node{
 ```
 ### Important
 I simplified this repository github.com/ltcsuite/ltcd repository to create this package You can check go it for better examples and functionalities and do not use this package in production, I created this package for education purposes.
+
+
+### Donate
+fill free to donate `ltc1q5m8nzek2459kvqvnmshhluc56lgl0mjyc8p3dc`
